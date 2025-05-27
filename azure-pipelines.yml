@@ -1,4 +1,3 @@
-#code work flow
 trigger:
 - '*'
 
